@@ -37,7 +37,8 @@
 
 [SunFounder PiCar-S kit]: https://www.sunfounder.com/picar-s-kit.html
 [manual]: https://www.sunfounder.com/learn/download/UGlDYXItU19Vc2VyX01hbnVhbC5wZGY=/dispi
-[pycar]: https://github.com/sunfounder/SunFounder_PiCar
+
+[picar]: https://github.com/sunfounder/SunFounder_PiCar
 [pycar-S]: https://github.com/sunfounder/SunFounder_PiCar-S
 
 ## 참고 사이트
