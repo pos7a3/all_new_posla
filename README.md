@@ -1,6 +1,6 @@
 # all_new_posla/Lamporghini
 
-[![Lamporghini](https://img.youtube.com/watch?v=w62PZlp24T4/0.jpg)](https://www.youtube.com/watch?v=w62PZlp24T4?t=71s "Lamporghini")
+[![Lamporghini](http://img.youtube.com/vi/w62PZlp24T4/0.jpg)](https://www.youtube.com/watch?v=w62PZlp24T4 "Lamporghini")
 
 라즈베리파이 기반의 교육용 RC카 키트에 lane detection(openCV), object detection(Yolo v3), 음성인식(Google STT API), 장애물 인식(Ultrasonic sensor) 기능을 추가하여 자율주행을 구현한 프로젝트 입니다. 
 
