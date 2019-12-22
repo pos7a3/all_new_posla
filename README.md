@@ -18,7 +18,7 @@
   - raspbian
   
 - RC Kit
-  - [SunFounder PiCar-S kit] [manual]
+  - [SunFounder PiCar-S kit]  [ [manual] ]
   
 ## How To Use
 1. server 프로젝트는 server PC에, client 프로젝트는 client PC에 각각 다운받습니다.
