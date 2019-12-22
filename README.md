@@ -44,5 +44,5 @@
 [pycar-S]: https://github.com/sunfounder/SunFounder_PiCar-S
 
 ## 참고 사이트
--https://github.com/hamuchiwa/AutoRCCar
--https://towardsdatascience.com/deeppicar-part-4-lane-following-via-opencv-737dd9e47c96
+- https://github.com/hamuchiwa/AutoRCCar
+- https://towardsdatascience.com/deeppicar-part-4-lane-following-via-opencv-737dd9e47c96
