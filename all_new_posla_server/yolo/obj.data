@@ -1,6 +1,6 @@
 classes= 4
-train  = data/train.txt
-#valid  = data/valid.txt
-names = data/obj.names
+train  = yolo/train.txt
+#valid  = yolo/train.txt
+names = yolo/obj.names
 backup = backup/
 
